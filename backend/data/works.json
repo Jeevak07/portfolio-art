@@ -1,0 +1,38 @@
+[
+  {
+    "id": "2ed159c00b1a4ce7a1288a5a4489b095",
+    "title": "Will Byers",
+    "description": "Portrait sketch with soft shading.",
+    "tag": "Portrait",
+    "year": "2026",
+    "imageUrl": "http://localhost:8000/uploads/ecab1e8c57f549d0bbc043bfe5cc8310.heic",
+    "created_at": "2026-02-06T15:32:32.476093"
+  },
+  {
+    "id": "dc4fac96ffa444f58817b960678a9e01",
+    "title": "Tyler Durden",
+    "description": "Pencil portrait study.",
+    "tag": "Portrait",
+    "year": "2026",
+    "imageUrl": "http://localhost:8000/uploads/b0fdf6eb0eb24233b93afaae809d3284.heic",
+    "created_at": "2026-02-06T15:32:32.463563"
+  },
+  {
+    "id": "1c4754e206734d0c997a32663c8950bc",
+    "title": "Okarun",
+    "description": "Anime sketch with bold pencil strokes.",
+    "tag": "Anime",
+    "year": "2026",
+    "imageUrl": "http://localhost:8000/uploads/fb49f3a2e8e64462a3adfca93c601537.heic",
+    "created_at": "2026-02-06T15:32:32.446998"
+  },
+  {
+    "id": "a47e39b1120545eb9befced0a62c8472",
+    "title": "Chainsaw Man",
+    "description": "Pencil sketch inspired by Chainsaw Man.",
+    "tag": "Anime",
+    "year": "2026",
+    "imageUrl": "http://localhost:8000/uploads/8e97898bed584c529f0c772379bc5455.heic",
+    "created_at": "2026-02-06T15:32:32.433428"
+  }
+]
